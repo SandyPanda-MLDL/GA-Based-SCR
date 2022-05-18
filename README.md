@@ -7,4 +7,4 @@ The code is writtern using the following libraries:
 3. ***scikit-learn 1.0.2***
 4. ***librosa 0.8.1***
 5. ***numpy version 1.21.6***
-MFCC features are considered using the python library ***python_speech_features
+MFCC features are considered using the python library ***python_speech_features***
